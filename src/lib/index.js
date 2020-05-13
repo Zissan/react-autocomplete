@@ -1,0 +1,1 @@
+export { withAutomcomplete } from "./withAutomcomplete";
